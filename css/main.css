@@ -1257,7 +1257,7 @@ header .header-logo {
 header .header-text {
   position: absolute;
   left: 120rem;
-  top: -10;
+  top: 0;
   font-size: 1.5rem;
   letter-spacing: .2rem;
   font-family: "montserrat-regular", sans-serif;
